@@ -56,6 +56,12 @@ Through my work, I aim to contribute to this transformation by designing IT arch
 
 ---
 
+## 🤝 Open to Opportunities
+
+I am always open to exploring exciting opportunities, collaborating on impactful projects, and sharing insights about the future of IT and AI. Whether you’re working on cutting-edge technologies, innovative AI solutions, or transformative IT architectures, feel free to connect and discuss how we can work together.
+
+---
+
 ## 📬 Let's Connect
 - **GitHub:** [sbezpalov](https://github.com/sbezpalov)
 - **LinkedIn:** [sbezpalov](https://www.linkedin.com/in/sbezpalov/)

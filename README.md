@@ -63,9 +63,10 @@ I am always open to exploring exciting opportunities, collaborating on impactful
 ---
 
 ## 📬 Let's Connect
+
 - **GitHub:** [sbezpalov](https://github.com/sbezpalov)
 - **LinkedIn:** [sbezpalov](https://www.linkedin.com/in/sbezpalov/)
-- **Email:** [sbezpalov@gmail.com](mailto:sbezpalov@gmail.com)
+- **Telegram:** [sbezpalov](https://t.me/m/CKOqP9m5OWMy)
 
 ---
 

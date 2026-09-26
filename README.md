@@ -6,7 +6,7 @@ I'm Sergey Bezpalov, an experienced Senior Solutions Architect and AI Evangelist
 ---
 
 ## 🚀 About Me
-- **20+ years in IT:** Leadership in complex projects, IT solution design, and strategic advisory.
+- **30+ years in IT:** Leadership in complex projects, IT solution design, and strategic advisory.
 - **AI Evangelist:** Promoting the integration of AI technologies to enhance business processes, efficiency, and decision-making.
 - **Areas of Expertise:**
   - Hybrid Cloud and Data Centers (DC, Hybrid Cloud)
